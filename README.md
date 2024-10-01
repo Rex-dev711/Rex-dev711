@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rex-dev711
+- 👀 I’m interested in Machine Learning & AI
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate for 'Hackathons'
+- 📫 Reach me on LinkedIn "Rex Khristi"
